@@ -1,0 +1,337 @@
+venue_name,address,city_name,country_name,longitude,latitude,postcode,capacity,venue_size,venue_type_new,venue_status
+Camberley Theatre,Knoll Road,Camberley,GB,-0.7434430000000001,51.338473,GU15 3SY,,,2_indoor,perminant
+The Leadmill,6 Leadmill Road,Sheffield,GB,-1.46504,53.376191000000006,S1 4SE,,,3_indoor_outdoor,perminant
+Bierkeller Manchester,"Unit 12, The Printworks, 27 Withy Grove",Manchester,GB,-2.240614,53.485156,M4 2BS,,,2_indoor,perminant
+St Marks Church St Marks Road Leeds LS2 9AF,St Marks Road,Leeds,GB,-1.5527030000000002,53.811566000000006,LS2 9AF,,,2_indoor,perminant
+Lincoln Drill Hall,Freeschool Lane,Lincoln,GB,-0.53733,53.229870999999996,LN2 1EY,,,2_indoor,perminant
+Poole Lighthouse,15 Kingland Road ,Poole,GB,-1.977106,50.718388,BH15 1UG,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+Hideaway Jazz Club,2 Empire Mews Stanthorpe Road,London,GB,-0.1304484,51.426724,SW16 2BF,,,2_indoor,perminant
+The Studio,"Unit 2A, 11-15 Francis Avenue",Bournemouth,GB,-1.9189109,50.7544973,BH11 8NX,,,2_indoor,perminant
+The Old Courts,"The Old Courts, Crawford Street, Wigan, WN1 1NA",Wigan,GB,-2.634388,53.545671,WN1 1NA,,,2_indoor,perminant
+Emporium,28-31 St. Ebbes Street,Oxford,GB,-1.2597931,51.7509659,OX1 1PU,,,2_indoor,perminant
+Sneaky Petes,73 Cowgate,Edinburgh,GB,-3.191513,55.948228,EH1 1JW,,,2_indoor,perminant
+Towcester Racecourse,London Road,Towcester,GB,-0.9700219999999999,52.123731,NN12 6LB,,,1_outdoor,temporary
+Stourbridge Town Hall,"Crown Centre,",Stourbridge,GB,-2.147695,52.457221999999994,DY8 1YE,,,2_indoor,temporary
+Gullivers,109 Oldham Street,Manchester,GB,-2.23457,53.483582,M4 1LW,,,2_indoor,perminant
+Brockholes Nature Reserve,"Preston New Road, Samlesbury",Preston,GB,-2.627252,53.771176000000004,PR5 0AG,,,1_outdoor,temporary
+Century Theatre,"Snibston Discovery Park,  Ashby Road",Coalville,GB,-1.383246,52.725926,LE67 3LN,,,2_indoor,perminant
+O2 Victoria Warehouse, Trafford Wharf Road,Manchester,GB,-2.284971,53.464265000000005,M17 1AB,,,2_indoor,perminant
+Bamber Bridge Football Club,"Brownedge Road, Bamber Bridge",Preston,GB,-2.67326,53.728017,PR5 6UX,,,1_outdoor,temporary
+Club Zero AKA The Factory,24 Lockyer Street,Plymouth,GB,-4.143682,50.368689700000004,PL1 2QW,,,2_indoor,perminant
+The Warehouse Penrith,43 Burrowgate ,Penrith,GB,-2.7519005,54.664947700000006,CA11 7TA,,,2_indoor,perminant
+Cast,Waterdale,Doncaster,GB,-1.131768,53.519856999999995,DN1 3BU,,,2_indoor,perminant
+Old Fire Station,Warwick St,Carlisle,GB,-2.9365,54.897063,CA3 8QP,,,2_indoor,perminant
+100 Wardour St,100 Wardour Street,London,GB,-0.133952,51.513647999999996,W1F 0TN,,,2_indoor,perminant
+The Warehouse Project,"Store Street Car Park, Store Street,",Manchester,GB,-2.231424,53.47798100000001,M1 2WA,,,2_indoor,perminant
+Theatre Royal Dumfries,Shakespeare Street,Dumfries,GB,-3.6076639999999998,55.068169999999995,DG1 2JH,,,2_indoor,perminant
+The Fitzgerald Heaton Moor,110 Heaton Moor Road,Stockport,GB,-2.1833367000000004,53.4235294,SK4 4NZ,,,2_indoor,perminant
+Proud Camden,"Stables Market, Chalk Farm Road, Camden Town",London,GB,-0.147873,51.542503,NW1 8AH,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+Junction,Clifton Way,Cambridge,GB,0.135926,52.190682,CB1 7GX,,,2_indoor,perminant
+Widcombe Social Club,Widcombe Hill,Bath ,GB,-2.352448,51.376427,BA2 6AA,,,2_indoor,perminant
+Contact Theatre,Oxford Road,Manchester,GB,-2.2622352,53.4705365,M15 6JA,,,2_indoor,perminant
+Pennington's Octagon,Bradford Road,"Sandbeds, Riddlesden",GB,-1.8623991999999998,53.8681745,BD20 5LY,,,2_indoor,perminant
+100 Wardour St,100 Wardour Street,London,GB,-0.133952,51.513647999999996,W1F 0TN,,,2_indoor,perminant
+Elgiva Theatre,St Maryâs Way ,Chesham,GB,-0.612358,51.708044,HP5 1HR,,,2_indoor,perminant
+HOME,2 Tony Wilson Place,Manchester,GB,-2.2465081000000002,53.4728164,M15 4FN,,,2_indoor,perminant
+The Magnet,45 Hardman Street,Liverpool,GB,-2.970901,53.401736,L1 9AS,,,2_indoor,perminant
+City Hall,The Queen&#39;s Walk  More London  ,London ,GB,-0.0786925,51.5048514,SE1 2AA,"1,355",Large,2_indoor,temporary
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+Mint Lounge,"46-50 Oldham Street, Northern Quarter",Manchester,GB,-2.234541,53.48326899999999,M4 1LE,,,2_indoor,perminant
+Bierkeller Manchester,"Unit 12, The Printworks, 27 Withy Grove",Manchester,GB,-2.240614,53.485156,M4 2BS,,,2_indoor,perminant
+The Mick Jagger Centre,Shepherds Lane,Dartford,GB,0.20585599999999998,51.445228,DA1 2JZ,,,2_indoor,perminant
+Sink Bar,"4 Paul Street Corner of Paul and, Worship St, London EC2A 4JH",London,GB,-0.0840716,51.5226098,EC2A 4JH,,,2_indoor,perminant
+Nell's Jazz And Blues, 3 North End Crescent,London,GB,-0.20734,51.492222999999996,W14 8TG,,,2_indoor,perminant
+Dunton Bassett Arms,"9 Bennetts Hill, Dunton Bassett",Lutterworth,GB,-1.1964704,52.5106968,LE17 5JJ,,,2_indoor,perminant
+Revolution Deansgate Locks,"Deansgate Locks, Whitworth Street West",Manchester,GB,-2.2495830000000003,53.47459,M1 5LH,,,2_indoor,perminant
+Soup Kitchen,31-33 Spear Street,Manchester,GB,-2.234471,53.482781,M1 1DF,,,3_indoor_outdoor,perminant
+FAC 251 The Factory,112-118 Princess Street,Manchester,GB,-2.2373095000000003,53.4739586,M1 7EN,,,2_indoor,perminant
+Riverside Arts Centre,"59 Thames Street, Middlesex",Sunbury,GB,-0.405303,51.406603000000004,TW16 5QF,,,2_indoor,perminant
+Chicken Shed Theatre,"Chicken Shed Theatre, Chase Side, Southgate London N14 4PE","Southgate, London",GB,-0.14540899999999998,51.644331,N14 4PE,,,2_indoor,perminant
+Tower Millennium Pier,North Greenwich pier,London,GB,0.008206,51.502039,SE10 0EW,,,1_outdoor,temporary
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Shoreditch,145 Shoreditch High Street,London,GB,-0.078025,51.525778,E1 6JE,,,2_indoor,perminant
+Stage And Radio,43 Port Street,Manchester,GB,-2.2318384,53.48186120000001,M1 2EQ,,,2_indoor,perminant
+Project B,3-7 Middle Street,Croydon,GB,-0.1011828,51.373430400000004,CR0 1RE,,,2_indoor,perminant
+O2 Academy Birmingham,"16-18 Horsefair, Bristol Street",Birmingham,GB,-1.900093,52.473079000000006,B1 1DB,,,2_indoor,perminant
+Meadowhall Shopping Centre,Meadowhall Shopping Centre,Sheffield,GB,-1.412455,53.413029,S9 1EP,,,2_indoor,perminant
+Woolston Manor Golf And Country Club,"Woolston Manor Golf & Country Club, Abridge Road",Chigwell,GB,0.09315269999999999,51.6407666,IG7 6BX,,,1_outdoor,temporary
+St Paul's Cafe,55a Chapel Road,Worthing,GB,-0.371193,50.813733,BN11 1EE,,,2_indoor,perminant
+The Old Abbey Taphouse,"Guildhall Close, Manchester Science Park",Manchester,GB,-2.2374680000000002,53.462143999999995,M15 6SY,,,2_indoor,perminant
+The Black Box Belfast,18-22 Hill Street,Belfast,GB,-5.926933,54.601649,BT1 2LA,,,2_indoor,perminant
+Fiction And Vinyl,"The City Gates, Little Wind Street",Swansea,GB,-3.9387830000000004,51.6186254,SA1 1ED,,,2_indoor,perminant
+Queen Of Hoxton,1-5 Curtain Road,London,GB,-0.081233,51.522134,EC2A 3JX,,,2_indoor,perminant
+The Greystones,Greystones Road,Sheffield,GB,-1.5195966,53.3646297,S11 7BW,,,3_indoor_outdoor,perminant
+Suju,28 High Street,Swindon,GB,-1.7740060000000002,51.551763,SN1 3EP,,,2_indoor,perminant
+The Solstice,Northminster Road,Peterborough,GB,-0.2393529,52.5754926,PE1 1YN,,,2_indoor,perminant
+Various Venues Around Manchester,Various Venues in Manchester,Manchester,GB,-2.2448702999999997,53.4735748,M1 5QR,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+FTH Theatre," West Bridge Street, Falkirk, FK1",Falkirk,GB,-3.792511,56.001217000000004,FK1 5RS,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+Wimbledon Park,Home Park Road,London,GB,-0.2061078,51.4374835,SW19 7HX,,,1_outdoor,temporary
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+Eagle Inn,18 Collier Street,Salford,GB,-2.2511735,53.4872691,M3 7DW,,,2_indoor,perminant
+Club VIVA,58 Whitworth Street,Manchester,GB,-2.2433359,53.4739735,M1 5WW,,,2_indoor,perminant
+Bunyan Centre,Mile Road,Bedford,GB,-0.451029,52.119077000000004,MK42 9TS,,,2_indoor,perminant
+Maggie Maes Brighton,61 _79 Preston Street,Brighton,GB,-0.1512552,50.822731299999994,BN1 2HG,,,2_indoor,perminant
+HOME,2 Tony Wilson Place,Manchester,GB,-2.2465081000000002,53.4728164,M15 4FN,,,2_indoor,perminant
+2Funky Music Cafe,23a new park st,Leicester,GB,-1.1448559999999999,52.6320159,LE3 5NH,,,2_indoor,perminant
+Luton Rugby Club,Newlands Rd ,Luton,GB,-0.427716,51.861257,LU1 4BQ,,,3_indoor_outdoor,perminant
+Hope Works,"Unit 1A, Hope Works Warehouse, Sussex Road",Sheffield,GB,-1.45315,53.387803000000005,S4 7YQ,,,2_indoor,perminant
+E Rooms,14-16 westgate,Skelmersdale,GB,-2.8044662000000002,53.5460731,WN8 8AZ,,,2_indoor,perminant
+The Chequers,"Main Street, Ullesthorpe",Lutterworth,GB,-1.2565947,52.484964299999994,LE17 5BT,,,2_indoor,perminant
+The Lanes,22 Nelson Street,Bristol,GB,-2.593482,51.456462,BS1 2LE,,,3_indoor_outdoor,perminant
+The Underground,"Basement of The Dog & Duck, 15 Mutley Plain",Plymouth,GB,-4.13317499,50.38094,PL4 6jg,,,2_indoor,perminant
+Guildford's Yvonne Arnaud Theatre,Millbrook,Guildford,GB,-0.5750054,51.2334136,GU1 3UX,,,2_indoor,perminant
+The 1865, Brunswick Square,Southampton,GB,-1.400483,50.898589,SO14 3AR,,,2_indoor,perminant
+The Three Sisters,139 Cowgate,Edinburgh,GB,-3.189954,55.948187,EH1 1JS,,,2_indoor,perminant
+Crazy Coqs At Brasserie Zedel,"20 Sherwood St, Piccadilly",London,GB,-0.13654860000000002,51.5136143,W1F 7ED,,,2_indoor,perminant
+Assembly Hall Theatre Tunbridge Wells,Crescent Road,Tunbridge Wells,GB,0.265986,51.132059999999996,TN1 2LU,,,2_indoor,perminant
+The Magnet,45 Hardman Street,Liverpool,GB,-2.970901,53.401736,L1 9AS,,,2_indoor,perminant
+The Cow," Tapnell Farm, Newport Road, Yarmouth, PO41",Yarmouth,GB,-1.472051,50.679547,PO41 0YJ,,,2_indoor,perminant
+Southwark Cathedral,London Bridge,London,GB,-0.0777414,51.5031561,SE1 9DA,,,2_indoor,perminant
+The Underworld Camden,"174 Camden High Street, United Kingdom",London,GB,-0.142333,51.539221000000005,NW1 0NE,,,2_indoor,perminant
+O2 Academy Leeds,55 Cookridge Street,Leeds,GB,-1.547117,53.80224499999999,LS2 3AW,,,2_indoor,perminant
+DreadnoughtRock,14-16 King Street,Bathgate,GB,-3.640586,55.900172999999995,EH48 1AX,,,2_indoor,perminant
+Bar Rumba,36 Shaftesbury Avenue,London,GB,-0.133346,51.51119,W1D 7EP,,,2_indoor,perminant
+City Hall Salisbury,"City Hall, Malthouse Lane",Salisbury,GB,-1.8003,51.070083000000004,SP2 7TU,,,2_indoor,temporary
+The Playhouse Nairn,Church Street,Nairn,GB,-3.8678061,57.5839181,IV12 4AP,,,2_indoor,perminant
+The Star Inn,Quarry Street,Guildford,GB,-0.575024,51.235094000000004,GU1 3TY,,,2_indoor,perminant
+O2 Ritz,Whitworth Street West,Manchester,GB,-2.242791,53.474256999999994,M1 5NQ,,,2_indoor,perminant
+Proud Camden,"Stables Market, Chalk Farm Road, Camden Town",London,GB,-0.147873,51.542503,NW1 8AH,,,2_indoor,perminant
+Ironworks Venue,122B Academy St,Inverness,GB,-4.2278729,57.480822200000006,IV1 1LX,,,2_indoor,perminant
+FAC 251 The Factory,112-118 Princess Street,Manchester,GB,-2.2373095000000003,53.4739586,M1 7EN,,,2_indoor,perminant
+Riverside Stadium,Middlesbrough Football Club,Middlesbrough,GB,-1.2173905,54.5780296,TS3 6RS,,,1_outdoor,perminant
+Victoria Gate Casino   Live Bar,"Victoria Gate Casino, Victoria Gate, Eastgate",Leeds,GB,-1.5383073999999999,53.798590000000004,LS2 7JL,,,2_indoor,perminant
+Bunker 51,"3 Herringham Road, North Greenwich",London,GB,0.035343,51.494015999999995,SE7 8NJ,,,2_indoor,perminant
+Club 43," 43A, Gold Street",Northampton,GB,-0.8992356,52.236611700000005,NN1 1RA,,,2_indoor,perminant
+The Royal British Legion,Windsor Road,Oldbury,GB,-2.0128261000000003,52.4835306,B68 8NY,,,2_indoor,perminant
+Princess Royal Theatre,Civic Centre,Port Talbot,GB,-3.7836089999999998,51.597614,SA13 1PJ,,,2_indoor,perminant
+The Village Hotel Bury," Waterfold Park, Bury, BL9",Bury,GB,-2.2761697,53.5905892,BL9 7BQ,,,2_indoor,perminant
+Woodland Creatures,"260-262 Leith Walk, Edinburgh",Edinburgh,GB,-3.175868,55.966162,EH6 5EL,,,2_indoor,perminant
+Miranda Bar,100 Shoreditch High Street,London,GB,-0.07292589999999999,51.5196036,E1 6QJ,,,2_indoor,perminant
+Crane, Bowyer Street,Birmingham,GB,-1.8770868000000003,52.4735248,B10 0SA,,,2_indoor,perminant
+The Lanes,22 Nelson Street,Bristol,GB,-2.593482,51.456462,BS1 2LE,,,3_indoor_outdoor,perminant
+Llangollen Town Hall,Castle Street,Llangollen,GB,-3.1703158,52.970385,LL20 8NU,,,2_indoor,temporary
+Shaka Zulu,"Stables Market, Chalk Farm Road",Camden,GB,-0.1458655,51.541497899999996,NW1 8AB,,,2_indoor,perminant
+Birmingham Town Hall,Victoria Square B3 3DQ,Birmingham,GB,-1.9046314999999998,52.480895999999994,B3 3DQ,,,3_indoor_outdoor,temporary
+Heaven,"The Arches, Villiers Street, Charing Cross",London,GB,-0.12414000000000001,51.50808,WC2N 6NG,,,2_indoor,perminant
+Guildford Cathedral,"Stag Hill, Guildford, Surrey",Guildford,GB,-0.589973,51.242441,GU1 7UP,,,2_indoor,perminant
+The Venue,7 Portland Place,"Carlisle, Cumbria",GB,-2.92998,54.891563,CA1 1RL,,,2_indoor,perminant
+The Leadmill,6 Leadmill Road,Sheffield,GB,-1.46504,53.376191000000006,S1 4SE,,,3_indoor_outdoor,perminant
+Leaps And Bounds Ltd,"Ellel Village Hall, Galgate",Lancaster,GB,-2.7905889999999998,53.988837399999994,LA2 0LQ,,,2_indoor,perminant
+The Boulevard,17 Wallgate,Wigan,GB,-2.632017,53.54549300000001,WN1 1LD,,,2_indoor,perminant
+The Cliff Hotel,"Cliff Hill, Gorleston",Great Yarmouth,GB,1.7310116999999998,52.570868000000004,NR31 6DH,,,2_indoor,perminant
+Stanley Halls London,South Norwood Hill,London,GB,-0.07531449999999999,51.4002833,SE25 6AB,,,2_indoor,perminant
+Northcourt Music,Northcourt Road,Abingdon,GB,-1.2763691000000001,51.6817732,OX14 1PL,,,2_indoor,perminant
+SINBIN At The Plough And Harrow,"419 High Road, Leytonstone",London,GB,0.00621,51.557087,E11 4JU,,,2_indoor,perminant
+The Village,"16 South Forth Street, Leith",Edinburgh,GB,-3.183296,55.974031000000004,EH6 4DN,,,2_indoor,perminant
+The Wardrobe,6 St Peter&#39;s Square,Leeds,GB,-1.5337889999999998,53.797146999999995,LS9 8AH,,,3_indoor_outdoor,perminant
+Newcastle University Students Union,"King&#39;s Rd, Newcastle upon Tyne, Tyne and Wear NE1 8QB",Newcastle,GB,-1.6143598999999997,54.980652600000006,NE1 8Q,,,2_indoor,perminant
+VIVA Blackpool,3 Church Street,Blackpool,GB,-3.055355,53.816951,FY1 1HJ,,,2_indoor,perminant
+VIVA Blackpool,3 Church Street,Blackpool,GB,-3.055355,53.816951,FY1 1HJ,,,2_indoor,perminant
+The Nook,7 Victoria Square,Holmfirth,GB,-1.7861778999999998,53.5695775,HD9 2DN,,,2_indoor,perminant
+The Comedy Store,"Arches 3 & 4 Deansgate Locks, Whitworth Street West",Manchester,GB,-2.250322,53.474538,M1 5LH,,,2_indoor,perminant
+The Trades,Greasbrough Rd.,Rotherham,GB,-1.358675,53.43305600000001,S60 1RB,,,2_indoor,perminant
+Vale Of Rheidol Railway,Park Avenue,Aberystwyth,GB,-4.07902,52.411156,SY23 1PG,,,1_outdoor,temporary
+The Flowerpot,23-25 King Street,Derby,GB,-1.479652,52.926252000000005,DE1 3DZ,,,2_indoor,perminant
+Christchurch Park,Christchurch Park,Ipswich,GB,1.156166,52.062540999999996,IP4 2BX,,,1_outdoor,temporary
+Radicals And Victuallers,"59 Upper Street, London",London,GB,-0.10401400000000001,51.535990999999996,N1 0NY,,,2_indoor,perminant
+Foxy's Lomax,"34 Cumberland Street, Liverpool, L1",Liverpool,GB,-2.9867334999999997,53.40781679999999,L1 6BU,,,2_indoor,perminant
+Tribeca,50 Sackville Street,Manchester,GB,-2.236548,53.476243999999994,M1 3WF,,,2_indoor,perminant
+Bootleggers,24 Finkle Street,Kendal,GB,-2.746292,54.327965,LA9 4AB,,,3_indoor_outdoor,perminant
+Union Club Vauxhall,66 Albert Embankment,London,GB,-0.12320999999999999,51.486948999999996,SE1 7TP,,,2_indoor,perminant
+Union Club Vauxhall,66 Albert Embankment,London,GB,-0.12320999999999999,51.486948999999996,SE1 7TP,,,2_indoor,perminant
+Eventim Apollo,45 Queen Caroline Street ,London,GB,-0.22463899999999998,51.491040000000005,W6 9QH,,,2_indoor,perminant
+The Fitzgerald Heaton Moor,110 Heaton Moor Road,Stockport,GB,-2.1833367000000004,53.4235294,SK4 4NZ,,,2_indoor,perminant
+The Vaults,"The Vaults, Newhall Place, Newhall Hill",Birmingham,GB,-1.910983,52.48393299999999,B1 3JH,,,2_indoor,perminant
+Manchester Central,Windmill St,Manchester,GB,-2.247546,53.476191,M2 3gx,"10,900",Large,2_indoor,perminant
+The Old Market,Upper Market Street,Brighton & Hove,GB,-0.157411,50.824682,BN3 1AS,,,2_indoor,temporary
+Taliesin Arts Centre,"Swansea University, Singleton Park",Swansea,GB,-3.978963,51.610296999999996,SA2 8PZ,,,2_indoor,perminant
+The Birdcage,"1a Highland road, Southsea",Portsmouth,GB,-1.070162,50.78607,PO4 0NG,,,2_indoor,perminant
+The Sabai Pavilion,Custom House Square,Belfast,GB,-5.9229294,54.60085600000001,BT1 3FG,,,3_indoor_outdoor,perminant
+Hula Tiki Bar,"11a Stevenson Square, Northern Quarter",Manchester,GB,-2.233135,53.482461,M1 1DB,,,2_indoor,perminant
+Spearmint Rhino,161 Tottenham Court Rd,London,GB,-0.13654439999999998,51.523266299999996,W1T 7NN,,,2_indoor,perminant
+Oceana,"Leisureworld, West Quay Road",Southampton,GB,-1.414153,50.901939,SO15 1RE,,,2_indoor,perminant
+Ambleside Social Club,Ambleside Drive,Southend-on-Sea,GB,0.7296925999999999,51.53845379999999,SS1 2UP,,,2_indoor,perminant
+Rialto Reborn,"85 Moseley Avenue, Coundon",Coventry,GB,-1.526512,52.417559999999995,CV6 1HR,,,2_indoor,perminant
+The Orchard Theatre,Home Gardens,Dartford,GB,0.2177834,51.445957799999995,DA1 1ED,,,2_indoor,perminant
+Cargo,"83 Rivington Street, Shoreditch",London,GB,-0.07872799999999999,51.526328,EC2A 3AY,,,3_indoor_outdoor,perminant
+Byron Hall Harrow Leisure Centre Christchurch Avenue,"Harrow Leisure Centre, Christchurch Avenue",Harrow,GB,-0.327545,51.592527000000004,HA3 5BD,,,2_indoor,perminant
+Hanger Farm Arts Centre,"Aikman Lane, West Totton",Southampton,GB,-1.5208629999999999,50.9205,SO40 8FT,,,2_indoor,perminant
+BEST WESTERN ROYAL CLIFTON HOTEL And SPA,One The Promenade,Southport,GB,-3.0100915,53.647235200000004,PR8 1RB,,,2_indoor,perminant
+Riverside Newcastle,"Neptune House, 1 The Close, Newcastle Upon Tyne, NE1 3RQ",Newcastle Upon Tyne,GB,-1.6089360000000001,54.967898,NE1 3RQ,,,2_indoor,perminant
+Building Six,"Building Six, The O2 Peninsular Square London SE10 0AX",LONDON,GB,0.003039,51.504539,SE10 0AX,,,2_indoor,perminant
+The Essex Golf And Country Club,"Airfield, Earls Colne",Colchester,GB,0.6807529999999999,51.9085821,CO6 2NS,,,2_indoor,perminant
+Harvey's Cellars,5 Denmark Street,Bristol,GB,-2.599567,51.453214,BS1 5DQ,,,2_indoor,perminant
+Hilton Birmingham Metropole Hotel,"The NEC Birmingham, Pendigo Way, Marston Green, ",Birmingham,GB,-1.7157208,52.45043979999999,B40 1PP,,,2_indoor,perminant
+The North Wall Arts Centre,South Parade Oxford OX2 7JN,Summertown,GB,-1.268644,51.777812,OX2 7JN,,,2_indoor,perminant
+24 Kitchen Street,24 Kitchen Street,Liverpool,GB,-2.982373,53.397040000000004,L1 0AN,,,2_indoor,perminant
+The Rocking Chair,23 Furnival Gate,Sheffield,GB,-1.4712831,53.3780076,S1 4QR,,,2_indoor,perminant
+Club Tropicana,31 South Ward Road,Dundee,GB,-2.975726,56.460938,DD1 1PU,,,2_indoor,perminant
+Harrow Arts Centre,"171 Uxbridge Road, Elliot Hall",Harrow,GB,-0.36351300000000003,51.60852,HA5 4EA,,,2_indoor,perminant
+The Royal Bath And West Of England Society,The Bath & West Showground,Shepton Mallet,GB,-2.5276921000000003,51.156153700000004,BA4 6QN,"150,000",Large,2_indoor,perminant
+Riverside Stadium,Middlesbrough Football Club,Middlesbrough,GB,-1.2173905,54.5780296,TS3 6RS,,,1_outdoor,perminant
+Victoria Gate Casino   Live Bar,"Victoria Gate Casino, Victoria Gate, Eastgate",Leeds,GB,-1.5383073999999999,53.798590000000004,LS2 7JL,,,2_indoor,perminant
+Floripa,91-93 Great Eastern St  ,London,GB,-0.083602,51.525985,EC2A 3HZ,,,2_indoor,perminant
+The Mick Jagger Centre,Shepherds Lane,Dartford,GB,0.20585599999999998,51.445228,DA1 2JZ,,,2_indoor,perminant
+Mercure Brighton Seafront Hotel,149 Kings Road,Brighton,GB,-0.15541760000000002,50.823031,BN1 2PP,,,2_indoor,perminant
+Assembly Hall Theatre Tunbridge Wells,Crescent Road,Tunbridge Wells,GB,0.265986,51.132059999999996,TN1 2LU,,,2_indoor,perminant
+Assembly Hall Theatre Tunbridge Wells,Crescent Road,Tunbridge Wells,GB,0.265986,51.132059999999996,TN1 2LU,,,2_indoor,perminant
+XOYO,32-37 Cowper Street,London,GB,-0.085632,51.525452,EC2A 4AP,,,2_indoor,perminant
+Quartz Nightclub Cannock,3 Church Street,Cannock,GB,-2.0296936999999997,52.6889713,WS11 1DE,,,2_indoor,perminant
+The Flowerpot,23-25 King Street,Derby,GB,-1.479652,52.926252000000005,DE1 3DZ,,,2_indoor,perminant
+42nd Street Nightclub,2 Bootle Street,Manchester,GB,-2.2477315,53.4785216,M2 5GU,,,2_indoor,perminant
+The Night Owl,17-18 Lower Trinity Street,Birmingham,GB,-1.8818523,52.47516579999999,B9 4AG,,,2_indoor,perminant
+The Night Owl,17-18 Lower Trinity Street,Birmingham,GB,-1.8818523,52.47516579999999,B9 4AG,,,2_indoor,perminant
+The Castle Hotel,66 Oldham Street,Manchester,GB,-2.234012,53.483385999999996,M4 1LE,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+TRASH Bradford (Rock Club And Late Spot),Sackville Street,Bradford,GB,-1.756952,53.794864000000004,BD1 2AJ,,,2_indoor,perminant
+Nell's Jazz And Blues, 3 North End Crescent,London,GB,-0.20734,51.492222999999996,W14 8TG,,,2_indoor,perminant
+Brockholes Nature Reserve,"Preston New Road, Samlesbury",Preston,GB,-2.627252,53.771176000000004,PR5 0AG,,,1_outdoor,temporary
+The Railway,243 Foxhall Road,Ipswich,GB,1.182782,52.052251,IP3 8LG,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+Camp And Furnace,67 Greenland Street ,Liverpool ,GB,-2.980164,53.39450600000001,L1 0BY,,,2_indoor,perminant
+The Core,"The Corby Cube, Parkland Gateway, George Street",Corby,GB,-0.7044165,52.4874086,NN17 1QG,,,2_indoor,perminant
+Oracle,3 Brewery Place,Leeds,GB,-1.537631,53.793374,LS10 1NE,,,2_indoor,perminant
+Golden Sunrise,Blackfriars Pier,"Victoria Embankment,",GB,-0.11635889999999999,51.5103224,EC4V 3QR,,,2_indoor,perminant
+Invisible Wind Factory,3 Regent Road,Liverpool,GB,-2.999818,53.418347999999995,L3 7DS,,,2_indoor,perminant
+Carriageworks Theatre,3 Millennium Square,Leeds,GB,-1.547928,53.801320999999994,LS2 3AD,,,2_indoor,perminant
+Mint Lounge,"46-50 Oldham Street, Northern Quarter",Manchester,GB,-2.234541,53.48326899999999,M4 1LE,,,2_indoor,perminant
+The Arches Project,"The Art House, Bissell Street",Birmingham,GB,-1.881109,52.474431,B5 7HP,,,2_indoor,perminant
+Zigfrid Von Underbelly,11 Hoxton Square,London,GB,-0.08182180000000001,51.5277797,N1 6NU,,,2_indoor,perminant
+Cooper Hall," Sevendale House, 7 Dale Street, Manchester, M1",Manchester,GB,-2.23506,53.482255,M1 1JA,,,2_indoor,perminant
+The Coatham Memorial Hall,Coatham Rd,Redcar,GB,-1.0704322,54.617659700000004,TS10 1RH,,,2_indoor,perminant
+Victoria Park,Park Avenue ,Belfast,GB,-5.8845410000000005,54.607485,BT4 1JT,,,1_outdoor,temporary
+The Continental,South Meadow Lane,Preston,GB,-2.706929,53.750195999999995,PR1 8JP,,,2_indoor,perminant
+Upper Chapel,Norfolk Street,Sheffield,GB,-1.4688370000000002,53.380924,S1 2JD,,,3_indoor_outdoor,perminant
+Babbacombe Theatre,Babbacombe Downs Road,Torquay,GB,-3.512021,50.478716999999996,TQ1 3LU,,,2_indoor,perminant
+The Basement And Sugar Sugar,2 St Mungo&#39;s Walk,Cumbernauld,GB,-3.9912786,55.94747370000001,G67 1QP,,,2_indoor,perminant
+Stantonbury Theatre,Stantonbury Arts & Leisure Trust,Milton Keynes,GB,-0.773691,52.061003,MK14 6BN,,,2_indoor,perminant
+The Magic Garden,231 Battersea Park Road,London,GB,-0.150851,51.475342,SW11 4LG,,,2_indoor,perminant
+House Of Hugo,23-32 Carver St,Sheffield,GB,-1.4742597,53.3804297,S1 4FS,,,2_indoor,perminant
+FAC 251 The Factory,112-118 Princess Street,Manchester,GB,-2.2373095000000003,53.4739586,M1 7EN,,,2_indoor,perminant
+Southwark Cathedral,London Bridge,London,GB,-0.0777414,51.5031561,SE1 9DA,,,2_indoor,perminant
+Brockholes Nature Reserve,"Preston New Road, Samlesbury",Preston,GB,-2.627252,53.771176000000004,PR5 0AG,,,1_outdoor,temporary
+Westone Manor Hotel,Firtree Walk,Northampton,GB,-0.8420093000000001,52.255628200000004,NN3 3DS,,,2_indoor,perminant
+Rewind,14 Town Hill,Wrexham,GB,-2.9942759,53.04475229999999,LL13 8NB,,,2_indoor,perminant
+The Lanes,22 Nelson Street,Bristol,GB,-2.593482,51.456462,BS1 2LE,,,3_indoor_outdoor,perminant
+Basement 45,8 Frogmore Street,Bristol,GB,-2.600823,51.453563,BS1 5NA,,,2_indoor,perminant
+The Dancehouse Theatre,10 Oxford Road,Manchester,GB,-2.2395110000000003,53.472882999999996,M1 5QA,,,2_indoor,perminant
+University Of Manchester,Oxford Road,Manchester,GB,-2.234168,53.467045,M13 9PL,,,2_indoor,perminant
+Bierkeller Liverpool,8 Thomas Steers Way,Liverpool,GB,-2.9881257999999997,53.4029873,L1 8LW,,,2_indoor,perminant
+Shaka Zulu,"Stables Market, Chalk Farm Road",Camden,GB,-0.1458655,51.541497899999996,NW1 8AB,,,2_indoor,perminant
+Shaka Zulu,"Stables Market, Chalk Farm Road",Camden,GB,-0.1458655,51.541497899999996,NW1 8AB,,,2_indoor,perminant
+Worcester Racecourse,"Main Road, Perdiswell/Town Centre",Worcester,GB,-2.2221192000000003,52.187614200000006,WR1 1DN,,,1_outdoor,temporary
+Five Miles,39b Markfield Road,London,GB,-0.06423999999999999,51.583277,N15 4QA,,,2_indoor,perminant
+Tamesis Dock,"Albert Embankment, Vauxhall",London,GB,-0.12266800000000001,51.492725,SE1 7TT,,,2_indoor,perminant
+St. Mark's Church Broomhill Sheffield,St. Mark&#39;s Church Broomfield Road Sheffield ,Sheffield,GB,-1.495574,53.377404000000006,S10 2SE,,,2_indoor,perminant
+FAC 251 The Factory,112-118 Princess Street,Manchester,GB,-2.2373095000000003,53.4739586,M1 7EN,,,2_indoor,perminant
+O2 Academy2 Birmingham,"16-18 Horsefair, Bristol Street",Birmingham,GB,-1.9002008000000001,52.473267799999995,B1 1DB,,,2_indoor,perminant
+The Concorde 2,Madeira Drive,Brighton,GB,-0.12304100000000001,50.81736,BN1 1EN,,,2_indoor,perminant
+SINBIN At The Plough And Harrow,"419 High Road, Leytonstone",London,GB,0.00621,51.557087,E11 4JU,,,2_indoor,perminant
+All Over NEWCASTLE,"Diamond Strip,",Newcastle,GB,-1.6100477,54.9753348,NE1 1SX,,,1_outdoor,temporary
+The Mash House,37 Guthrie Street,Edinburgh,GB,-3.187602,55.94856899999999,EH1 1JG,,,2_indoor,perminant
+Oval Space,29-32 The Oval London ,London,GB,-0.059265,51.53318,E2 9DT,,,2_indoor,perminant
+Lola Lo,"Arches 9 - 10 Deansgate Locks, Whitworth Street West",Manchester,GB,-2.2499119999999997,53.474641000000005,M1 5LH,,,2_indoor,perminant
+Backyard Comedy Club,"231 Cambridge Heath Road, Bethnal Green",London,GB,-0.0558268,51.526461499999996,E2 0EL,,,2_indoor,perminant
+The Empire,Coventry,Coventry,GB,-1.4975441,52.4073082,CV1 5DU,,,2_indoor,perminant
+Greater Than Gatsby,201 High Street,Bromley,GB,0.013132099999999999,51.4065309,BR1 1NY,,,2_indoor,perminant
+The Ice Factory,6 Shore Road ,Perth,GB,-3.426619,56.387776,PH2 8BW,,,2_indoor,perminant
+Mint Lounge,"46-50 Oldham Street, Northern Quarter",Manchester,GB,-2.234541,53.48326899999999,M4 1LE,,,2_indoor,perminant
+The Blind Pig,4 Tower Hill,Sowerby Bridge,GB,-1.910659,53.709006,HX6 2EQ,,,2_indoor,perminant
+Cygnet Theatre,Friars Gate,Exeter,GB,-3.52946,50.719196000000004,EX2 4AZ,,,2_indoor,perminant
+Handel And Hendrix In London,"25 Brook Street, London W1k 4HB",London,GB,-0.145929,51.512965799999996,W1K 4HB,,,2_indoor,perminant
+The Milton Club,244 Deansgate,Manchester,GB,-2.250022,53.477934999999995,M3 4BQ,,,2_indoor,perminant
+South Brent Village Hall,Station Approach,Devon,GB,-3.8370943,50.4269315,TQ10 9AQ,,,2_indoor,perminant
+The Half Moon,"93 Lower Richmond Road, Putney",London,GB,-0.22014099999999998,51.467296000000005,SW15 1EU,,,2_indoor,perminant
+Harlem Nightclub Dunfermline,29-35 Bruce Street,Dunfermline,GB,-3.463745,56.0721086,KY12 7AG,,,2_indoor,perminant
+Apples  And  Pears,26 Osborn Street,London,GB,-0.07002,51.516982,E1 6TD,,,2_indoor,perminant
+HEART (Headingley Enterprise And Arts Centre),Bennet Road,Leeds,GB,-1.577962,53.820268000000006,LS6 3HN,,,2_indoor,perminant
+Chetham's Library, Long Millgate,Manchester,GB,-2.2433749,53.4860449,M3 1SB,,,2_indoor,perminant
+The Half Moon,"93 Lower Richmond Road, Putney",London,GB,-0.22014099999999998,51.467296000000005,SW15 1EU,,,2_indoor,perminant
+Fiddlers,"WILLWAY STREET, BEDMINSTER, BRISTOL",Bristol,GB,-2.592303,51.442868,BS3 4BG,,,2_indoor,perminant
+Club Tropicana,74 Chapel Street,Aberdeen,GB,-2.1099759,57.145193400000004,AB10 1SN,,,2_indoor,perminant
+Gloucester Midland Rd,13 Midland Road,Gloucester,GB,-0.00025699999999999996,0.004635,GL1 4UQ,,,1_outdoor,temporary
+Wandle Park,Vicarage Road,Croydon,GB,-0.112821,51.373764,CR0 4JS,,,1_outdoor,temporary
+Bunker 51,"3 Herringham Road, North Greenwich",London,GB,0.035343,51.494015999999995,SE7 8NJ,,,2_indoor,perminant
+Bunker 51,"3 Herringham Road, North Greenwich",London,GB,0.035343,51.494015999999995,SE7 8NJ,,,2_indoor,perminant
+LAB11,"Trent St, Digbeth ",Birmingham,GB,-1.8864009999999998,52.476781,B5 5NR,,,2_indoor,perminant
+Hawker Yard,62-70 Pershore Street,Birmingham,GB,-1.895573,52.475039,B5 4RU,,,2_indoor,perminant
+Tapton Hall,"Tapton Hall, Shore Lane",Sheffield,GB,-1.515295,53.375914,S10 3BU,,,2_indoor,perminant
+O2 Academy 2 Sheffield,37-43 Arundel Gate,Sheffield,GB,-1.465711,53.381493999999996,S1 2PN,,,2_indoor,perminant
+The Fitzgerald Heaton Moor,110 Heaton Moor Road,Stockport,GB,-2.1833367000000004,53.4235294,SK4 4NZ,,,2_indoor,perminant
+Electric Brixton,"Town Hall Parade, Brixton Hill",London,GB,-0.116618,51.46013,SW2 1RJ,"1,700",Large,2_indoor,perminant
+Venus,"42 Maybrook House, Blackfriars",Manchester,GB,-2.247251,53.483385,M3 2EG,,,2_indoor,perminant
+Bourbon,24A Frederick Street,Edinburgh,GB,-3.2005624,55.9524964,EH2 2JR,,,2_indoor,perminant
+The Venue,"Pavillion Buildings, Marine Parade",Barmouth,GB,-4.0575049,52.722072999999995,LL42 1LY,,,2_indoor,perminant
+The Magic Roundabout,"Middle of Old Street Roundabout, London, United Kingdom",London,GB,-0.08753999999999999,51.525644,EC1Y 1BE,,,2_indoor,perminant
+Brighton Unitarian Church,New Road,Brighton,GB,-0.140255,50.823202,BN1 1UF,,,2_indoor,perminant
+Fulham Palace,Bishop's Avenue  ,London,GB,-0.2156275,51.4704694,SW6 6EA,,,2_indoor,perminant
+W London Leicester Square,"W London, 10 Wardour St",London,GB,-0.131545,51.510611,W1D 6QF,,,2_indoor,perminant
+Conroy's Basement,51-53 Meadowside,Dundee,GB,-2.9701662,56.4634916,DD1 1EQ,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+The Banshee Labyrinth,29-35 Niddry Street,Edinburgh,GB,-3.1867810000000003,55.9490812,EH1 1LG,,,2_indoor,perminant
+C C Blooms,23-24 Greenside Place,Edinburgh,GB,-3.1850222,55.957031799999996,EH1 3AA,,,2_indoor,perminant
+C C Blooms,23-24 Greenside Place,Edinburgh,GB,-3.1850222,55.957031799999996,EH1 3AA,,,2_indoor,perminant
+EDINBURGH OCEAN TERMINAL LEITH,OCEAN TERMINAL LEITH,EDINBURGH,GB,-3.1796685,55.9800589,EH6 6JJ,,,1_outdoor,temporary
+Monkey Barrel Comedy,9-11 Blair Street,Edinburgh,GB,-3.1878583,55.949223100000005,EH1 1QR,,,2_indoor,perminant
+Monkey Barrel Comedy,9-11 Blair Street,Edinburgh,GB,-3.1878583,55.949223100000005,EH1 1QR,,,2_indoor,perminant
+Monkey Barrel Comedy,9-11 Blair Street,Edinburgh,GB,-3.1878583,55.949223100000005,EH1 1QR,,,2_indoor,perminant
+Monkey Barrel Comedy,9-11 Blair Street,Edinburgh,GB,-3.1878583,55.949223100000005,EH1 1QR,,,2_indoor,perminant
+Partick Burgh Halls,"3-9A, Burgh Hall Street, Partick",Glasgow,GB,-4.30863,55.87141,G11 5LW,,,2_indoor,perminant
+The Boulevard,17 Wallgate,Wigan,GB,-2.632017,53.54549300000001,WN1 1LD,,,2_indoor,perminant
+Hammersmith Salsa Club,11 Rutland Grove,Hammersmith,GB,-0.230159,51.490095399999994,W6 9DH,,,2_indoor,perminant
+Frog And Bucket Comedy Club,102 Oldham St,Manchester,GB,-2.232766,53.48439499999999,M4 1LJ,,,2_indoor,perminant
+The Courtyard Theatre,"Bowling Green Walk, 40 Pitfield Street, Hoxton",London,GB,-0.083457,51.527429999999995,N1 6EU,,,2_indoor,perminant
+The Courtyard Theatre,"Bowling Green Walk, 40 Pitfield Street, Hoxton",London,GB,-0.083457,51.527429999999995,N1 6EU,,,2_indoor,perminant
+The Courtyard Theatre,"Bowling Green Walk, 40 Pitfield Street, Hoxton",London,GB,-0.083457,51.527429999999995,N1 6EU,,,2_indoor,perminant
+Stanley Halls London,South Norwood Hill,London,GB,-0.07531449999999999,51.4002833,SE25 6AB,,,2_indoor,perminant
+The Wheatsheaf,135 High Street,West Wickham,GB,-0.0211352,51.3768178,BR4 0LU,,,2_indoor,perminant
+The Louisiana,"Wapping Street, Bathurst Terrace",Bristol,GB,-2.596438,51.446723999999996,BS1 6UA,,,3_indoor_outdoor,perminant
+The Old Courts,"The Old Courts, Crawford Street, Wigan, WN1 1NA",Wigan,GB,-2.634388,53.545671,WN1 1NA,,,2_indoor,perminant
+Fifty Five Bar,31 Jamestown Road,London,GB,-0.145759,51.540172,NW1 7DB,,,2_indoor,perminant
+Sutton Coldfield Town Hall,Upper Clifton Road,Sutton Coldfield,GB,-1.8258400000000001,52.566256,B73 6AB,,,2_indoor,temporary
+Eventim Olympia,West Derby Road,Liverpool,GB,-2.957703,53.415776,L6 9BY,,,2_indoor,perminant
+Crescent Arts Centre,2-4 University Road,Belfast,GB,-5.9351889,54.5873547,BT7 1NH,,,2_indoor,perminant
+The Richmond Bar,33 Richmond Place,Brighton,GB,-0.13429370000000002,50.8279383,BN2 9NA,,,2_indoor,perminant
+Claptrap The Venue,108A High Street,Stourbridge,GB,-2.144491,52.455525,DY8 1EE,,,3_indoor_outdoor,perminant
+Bosworth Battlefield Heritage Centre," Ambion Lane, Sutton Cheney",Nuneaton,GB,-1.4057790000000001,52.59728199999999,CV13 0AD,,,1_outdoor,temporary
+Surface Gallery,"16 Southwell Road, ",Nottingham ,GB,-1.1407251,52.952492799999995,NG1 1DL,,,2_indoor,perminant
+The Whiskey Jar,16 Tariff Street M1 2FF Manchester,Manchester,GB,-2.232008,53.481297999999995,M1 2FF,,,2_indoor,perminant
+Windsor And Eton Brewery,1 Vansittart Estate,Windsor,GB,-0.617432,51.4844,SL4 1SE,,,2_indoor,perminant
+St. Marys Church,Church Street,Watford,GB,-0.39592259999999996,51.6545633,WD18 0EG,,,2_indoor,perminant
+The Retro Room At Vintage Retreat," Lower Harding Street, Northampton, NN1",NORTHAMPTON,GB,-0.9027615,52.241499600000004,NN1 2JL,,,2_indoor,perminant
+Ministry Of Sound,103 Gaunt Street,London,GB,-0.099489,51.497776,SE1 6DP,,,2_indoor,perminant
+Inkwell,"31 Potternewton Lane, Leeds",Leeds,GB,-1.5361365,53.82472779999999,LS7 3LW,,,2_indoor,perminant
+Grow,"98C Main Yard, Wallis Road",Hackney Wick,GB,-0.023801,51.549987,E9 5LN,,,3_indoor_outdoor,perminant
+24 Kitchen Street,24 Kitchen Street,Liverpool,GB,-2.982373,53.397040000000004,L1 0AN,,,2_indoor,perminant
+Trinity Methodist Church,"Harborough Road, Oadby",Leicester,GB,-1.0813808,52.600228599999994,LE2 4LA,,,3_indoor_outdoor,perminant
+Sanctum Soho,20 Warwick Street soho,London,GB,-0.1383868,51.5116683,W1B 5NF,,,2_indoor,perminant
+City Hall,The Queen&#39;s Walk  More London  ,London ,GB,-0.0786925,51.5048514,SE1 2AA,"1,355",Large,2_indoor,temporary
+The Clarendon Hotel,8-16 Montpelier Row,London,GB,0.010007700000000001,51.468706700000006,SE3 0RW,,,2_indoor,perminant
+The New Adelphi Hull,89 De Grey Street Hull HU5 2RU,Hull,GB,-0.355236,53.762457,HU5 2RU,,,2_indoor,perminant
+Her Upstairs,18 Kentish Town Road,London,GB,-0.142295,51.539674,NW1 9NX,,,2_indoor,perminant
+JuJu Chelsea,"316-318 Kings Road, London, SW3 5UH, United Kingdom",London,GB,-0.1738247,51.4857156,SW3 5UH,,,2_indoor,perminant
+Heaven,"The Arches, Villiers Street, Charing Cross",London,GB,-0.12414000000000001,51.50808,WC2N 6NG,,,2_indoor,perminant
+Heaven,"The Arches, Villiers Street, Charing Cross",London,GB,-0.12414000000000001,51.50808,WC2N 6NG,,,2_indoor,perminant
+Hula Tiki Bar,"11a Stevenson Square, Northern Quarter",Manchester,GB,-2.233135,53.482461,M1 1DB,,,2_indoor,perminant
+Brockholes Nature Reserve,"Preston New Road, Samlesbury",Preston,GB,-2.627252,53.771176000000004,PR5 0AG,,,1_outdoor,temporary
+SWG3,"Studio Warehouse, 100 Eastvale Place",Glasgow,GB,-4.299779,55.864594,G3 8QG,,,2_indoor,perminant
+Millfield Theatre,Silver Street,Edmonton,GB,-0.062553,51.613589000000005,N18 1PJ,,,2_indoor,perminant
+The Old Courts,"The Old Courts, Crawford Street, Wigan, WN1 1NA",Wigan,GB,-2.634388,53.545671,WN1 1NA,,,2_indoor,perminant
+The Old Courts,"The Old Courts, Crawford Street, Wigan, WN1 1NA",Wigan,GB,-2.634388,53.545671,WN1 1NA,,,2_indoor,perminant
+The Lanes,22 Nelson Street,Bristol,GB,-2.593482,51.456462,BS1 2LE,,,3_indoor_outdoor,perminant
+Rumours Nightclub Wynford Hotel,"Wynford Hotel, Clare Street, Cardiff. CF11 6BD",Cardiff,GB,-3.1884742000000004,51.4776935,CF11 6bd,,,2_indoor,perminant
+Bosworth Battlefield Heritage Centre," Ambion Lane, Sutton Cheney",Nuneaton,GB,-1.4057790000000001,52.59728199999999,CV13 0AD,,,1_outdoor,temporary
+The Basement Club,"13-15 Marsh Street South, Hanley, Stoke-on-Trent, ST1",Stoke-on-Trent,GB,-2.1785055,53.0241088,ST1 1JA,,,2_indoor,perminant
+Madison London," Terrace, One New Change, St Paul&#39;s,",London,GB,-0.0952182,51.513538,EC4M 9AF,,,2_indoor,perminant
+Lola Lo,"Arches 9 - 10 Deansgate Locks, Whitworth Street West",Manchester,GB,-2.2499119999999997,53.474641000000005,M1 5LH,,,2_indoor,perminant
